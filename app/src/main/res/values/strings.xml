@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Hello Android</string>
+    <string name="app_name">Tutorial Layout by Gena Caesar</string>
+    <string name="nkri">INDONESIA</string>
+    <string name="pulau1000">PULAU SERIBU</string>
+    <string name="deskripsi">Description :</string>
+    <string name="teks1">Green bridge from Seatle is really awesome to get the hot spot for traveller who is traveling right there with their families.</string>
+    <string name="teks2">Simply dummy text something is nice but you have to aware about the branding of the product itself so keep it happy and make it more fancy.</string>
 </resources>
